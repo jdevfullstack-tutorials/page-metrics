@@ -6,7 +6,7 @@ GitHub has its own `Traffic` to show unique visitors, views, etc.
 But this one is not so useful. First, there is no total views,
 as in total from the very start. Second, visitors cannot see
 that, compared to YouTube, views are very important 
-and its placed there below the video.
+and it's placed there below the video.
 
 Google Analytics is another option. But, first you need
 to turn your repo as a web page. Second, the setup
