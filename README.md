@@ -34,3 +34,15 @@ the provided markdown code, for HTML, use the
 provided html code.
 ![step 3](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step3.png)
 
+Paste it at the README file of your repo or web page. If ever you used the 
+`master` branch as your page also, there is no need to add that separately.
+
+## How It Works
+The service will count every page hit, meaning every request for that particular
+URL will be counted. Even if you reload that, you'll see it's incrementing.
+
+Of course, this one can be faked easily. But, there is no sense faking
+the views, right? You install it for the very reason you need to see
+the total visitors in a day and the total count of it the moment
+you install the service. Why would you fake it? 
+Unless you want to cheat yourself. 
