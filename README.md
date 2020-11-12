@@ -21,7 +21,7 @@ hit will be counted and the best thing is
 you can embed that on your page or repo README
 file.
 
-Visit the site: <https://hits.seeyoufarm.com/>
+Visit the site: <https://hits.seeyoufarm.com/>.
 That is where you generate the badge.
 
 Step 1: Paste your URL.
@@ -32,8 +32,8 @@ most important one is the words to be displayed,
 instead of `hits`, I'll change that to `PAGE VIEWS`.
 ![step 2](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step2.png)
 
-Step 3: Get the embed code, for README file, use 
-the provided markdown code, for HTML, use the 
+Step 3: Get the embed code, for README file use 
+the provided markdown code, for HTML use the 
 provided html code.
 ![step 3](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step3.png)
 
