@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fpage-metrics-tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-GitHub has its own `Traffic` to show unique visitors, views etc.
-But, this one is not so useful. First, there is no total views,
+GitHub has its own `Traffic` to show unique visitors, views, etc.
+But this one is not so useful. First, there is no total views,
 as in total from the very start. Second, visitors cannot see
 that, compared to YouTube, views are very important 
 and its placed there below the video.
@@ -18,7 +18,7 @@ So, I did not stop looking for the exact answer.
 Then I discovered HITS service to simply count
 the visitors of your page or repo. Every page
 hit will be counted and the best thing is
-you can embed that in your page or repo README
+you can embed that on your page or repo README
 file.
 
 Visit the site: <https://hits.seeyoufarm.com/>
