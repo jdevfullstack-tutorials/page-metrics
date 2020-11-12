@@ -39,6 +39,8 @@ provided html code.
 
 Paste it at the README file of your repo or web page. If ever you used the 
 `master` branch as your page also, there is no need to add that separately.
+And that's it!
+![sample](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/final.png)
 
 ## How It Works
 The service will count every page hit, meaning every request for that particular
