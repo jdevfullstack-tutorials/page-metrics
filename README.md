@@ -43,8 +43,11 @@ And that's it!
 ![sample](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/final.png)
 
 ## How It Works
-The service will count every page hit, meaning every request for that particular
-URL will be counted. Even if you reload that, you'll see it's incrementing.
+The service will count every page hit, meaning every request
+for that particular URL will be counted, including yours.
+You can test that by reloading the page or repo.
+If the counter is incrementing for every reload,
+it's working.
 
 Of course, this one can be faked easily. But, there is no sense faking
 the views, right? You install it for the very reason you need to see
