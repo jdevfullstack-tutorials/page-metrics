@@ -43,6 +43,5 @@ URL will be counted. Even if you reload that, you'll see it's incrementing.
 
 Of course, this one can be faked easily. But, there is no sense faking
 the views, right? You install it for the very reason you need to see
-the total visitors in a day and the total count of it the moment
-you install the service. Why would you fake it? 
+the total visitors. Why would you fake it? 
 Unless you want to cheat yourself. 
