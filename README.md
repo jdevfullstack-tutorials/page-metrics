@@ -18,3 +18,16 @@ hit will be counted and the best thing is
 you can embed that in your page or repo README
 file.
 
+Visit the site: <https://hits.seeyoufarm.com/>
+That is where you generate the badge.
+
+Step 1: Paste your URL
+
+Step 2: Change the settings, for me the
+most important one is the words to be displayed,
+instead of `hits`, I'll change that to `PAGE VIEWS`
+
+Step 3: Get the embed code, for README file, use 
+the provided markdown code, for HTML, use the 
+provided html code.
+
