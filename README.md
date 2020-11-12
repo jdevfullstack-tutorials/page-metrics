@@ -27,7 +27,7 @@ That is where you generate the badge.
 Step 1: Paste your URL.
 ![step 1](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step1.png)
 
-Step 2: Change the settings, for me the
+Step 2: Change the settings. For me, the
 most important one is the words to be displayed,
 instead of `hits`, I'll change that to `PAGE VIEWS`.
 ![step 2](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step2.png)
