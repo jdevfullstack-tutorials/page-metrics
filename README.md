@@ -49,6 +49,10 @@ You can test that by reloading the page or repo.
 If the counter is incrementing for every reload,
 it's working.
 
+Take note, this is not using any data from GitHub or
+Google Analytics, it's simply a page counter that
+will record how many times a page or repo is requested.
+
 Of course, this one can be faked easily. But, there is no sense faking
 the views, right? You install it for the very reason you need to see
 the total visitors. Why would you fake it? 
