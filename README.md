@@ -25,22 +25,22 @@ Visit the site: <https://hits.seeyoufarm.com/>.
 That is where you generate the badge.
 
 Step 1: Paste your URL.
-![step 1](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step1.png)
+![step 1](https://raw.githubusercontent.com/xdvrx1/page-metrics-tutorial/main/screenshots/step1.png)
 
 Step 2: Change the settings. For me, the
 most important one is the words to be displayed,
 instead of `hits`, I'll change that to `PAGE VIEWS`.
-![step 2](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step2.png)
+![step 2](https://raw.githubusercontent.com/xdvrx1/page-metrics-tutorial/main/screenshots/step2.png)
 
 Step 3: Get the embed code, for README file use 
 the provided markdown code, for HTML use the 
 provided html code.
-![step 3](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step3.png)
+![step 3](https://raw.githubusercontent.com/xdvrx1/page-metrics-tutorial/main/screenshots/step3.png)
 
 Paste it at the README file of your repo or web page. If ever you used the 
 `main` branch as your page also, there is no need to add that separately.
 And that's it!
-![sample](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/final.png)
+![sample](https://raw.githubusercontent.com/xdvrx1/page-metrics-tutorial/main/screenshots/final.png)
 
 ## How It Works
 The service will count every page hit, meaning every request
