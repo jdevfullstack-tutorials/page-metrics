@@ -38,7 +38,7 @@ provided html code.
 ![step 3](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step3.png)
 
 Paste it at the README file of your repo or web page. If ever you used the 
-`master` branch as your page also, there is no need to add that separately.
+`main` branch as your page also, there is no need to add that separately.
 And that's it!
 ![sample](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/final.png)
 
