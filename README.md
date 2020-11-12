@@ -22,6 +22,7 @@ Visit the site: <https://hits.seeyoufarm.com/>
 That is where you generate the badge.
 
 Step 1: Paste your URL
+![step 1](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step1.png)
 
 Step 2: Change the settings, for me the
 most important one is the words to be displayed,
