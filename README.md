@@ -32,4 +32,5 @@ instead of `hits`, I'll change that to `PAGE VIEWS`
 Step 3: Get the embed code, for README file, use 
 the provided markdown code, for HTML, use the 
 provided html code.
+![step 3](https://github.com/xdvrx1/page-metrics-tutorial/blob/main/screenshots/step3.png)
 
