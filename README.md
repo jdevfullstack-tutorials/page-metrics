@@ -54,5 +54,5 @@ the views, right? You install it for the very reason you need to see
 the total visitors. Why would you fake it? 
 Unless you want to cheat yourself. 
 
-You can visit the site development: 
+You can visit the app development: 
 <https://github.com/gjbae1212/hit-counter>
